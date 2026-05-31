@@ -1,0 +1,1 @@
+**Automated QA Project Using Selenium** is a test automation framework built with Selenium WebDriver to streamline web application testing. It includes automated test scripts, reusable components, reporting, and validation workflows to improve test coverage, reduce manual effort, and ensure application quality and reliability.
